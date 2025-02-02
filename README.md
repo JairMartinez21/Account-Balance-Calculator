@@ -14,3 +14,11 @@ This is a Java console application that calculates and displays the starting and
 
 - Deposit and withdraw from accounts.
 - Apply monthly fees and interest.
+
+## Sample Output
+
+Here is a sample output of the application:
+
+![Account Balance Calculator Output](screenshots/output1.png)
+![Account Balance Calculator Output](screenshots/output2.png)
+![Account Balance Calculator Output](screenshots/output3.png)
